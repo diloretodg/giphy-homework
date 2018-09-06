@@ -1,4 +1,4 @@
-var topics = ["Alien", "Blade Runner", "Thor Ragnarock", "Drive", "Shawn of the Dead", "the Disaster Artist", "American Hustle", "Mission Impossible", "Ocean's Eleven", "The Princess Bride", "Reservior Dogs", "Moana", "Pulp Fiction", "Django", "Kill Bill"];
+var topics = ["Alien", "Blade Runner", "Thor Ragnarock", "Drive", "Shawn of the Dead", "Tropic Thunder", "The Disaster Artist", "American Hustle", "Mission Impossible", "Ocean's Eleven", "The Princess Bride", "Reservior Dogs", "Moana", "Pulp Fiction", "Django", "Kill Bill"];
 
 
 
