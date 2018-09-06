@@ -8,14 +8,30 @@
         <link rel="stylesheet" href="main.css" type="text/css">
     </head>
     <body>
-        <div id="movie-buttons-display"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md12">
+                    <div id="movie-buttons-display"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <form id="movie-form">
+                        <input id="add-movie" class="button btn btn-primary m-1" type="submit" value="Add a Movie">
+                        <input type="text" id="movie-input">
+                    </form>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="gif-display">
+                    </div>
+                </div>
+            </div>
+        </div>
         <br>
-        <form id="movie-form">
-            <input id="add-movie" class="button" type="submit" value="Add a Movie">
-            <input type="text" id="movie-input">
-        </form>
+        
         <br>
-        <div id="gif"></div>
     <script src="main.js" > </script>    
     </body>
   </html>

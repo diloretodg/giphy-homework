@@ -1,7 +1,9 @@
 body {
-
+    background-color: lightgrey;
 }
 
-.button {
-    
+#gif-display {
+    display: flex;
+    flex-wrap: wrap;
 }
+
